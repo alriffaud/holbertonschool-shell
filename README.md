@@ -1,1 +1,1 @@
-This is a repository about Shell Scripting.
+This is a proyect about Shell Scripting.
